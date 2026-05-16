@@ -29,10 +29,6 @@ By combining modern web architectures (FastAPI, React, Next.js) with data scienc
 * **Overview:** A comprehensive Red vs. Blue testing infrastructure. Developed multi-threaded Layer 4 (SYN Flood via Scapy) and Layer 7 (HTTP Flood via raw sockets) exploit utilities to target an Ubuntu node, while hardening the host via Linux Kernel Tuning (TCP SYN Cookies) and Netfilter Firewall thresholds (`iptables -m connlimit`).
 * **Tech Stack:** Kali Linux, Ubuntu Server, Python, Scapy, Netfilter/Iptables, Wireshark.
 
-### 3. [🏪 GS25 Online Store Simulation](https://github.com/hien-cybers)
-* **Overview:** A responsive e-commerce application modeled after the GS25 convenience store ecosystem. Built with a formal UML-driven architecture (Use Case & Sequence Diagrams), featuring browser-level persistent data caching and dynamic banking API integrations.
-* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), LocalStorage NoSQL simulation, VietQR Payment Gateway API.
-
 ---
 
 ## 🛠️ Technical Arsenal & Core Tooling
@@ -90,4 +86,4 @@ By combining modern web architectures (FastAPI, React, Next.js) with data scienc
 ## ✉️ Connect With Me
 * **GitHub Personal Gateway:** [@hien-cybers](https://github.com/hien-cybers)
 * **Academic Specialization:** Software Engineering & Intelligent Security Utilities
-* **Inquiries:** *Open for Full-Stack, Blue Team, SOC Analyst, or AppSec Internship Positions.*
+* **Inquiries:** **
