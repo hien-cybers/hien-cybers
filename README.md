@@ -85,5 +85,5 @@ By combining modern web architectures (FastAPI, React, Next.js) with data scienc
 
 ## ✉️ Connect With Me
 * **GitHub Personal Gateway:** [@hien-cybers](https://github.com/hien-cybers)
-* **Academic Specialization:** Software Engineering & Intelligent Security Utilities
+* **Academic Specialization:**
 * **Inquiries:** **
